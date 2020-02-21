@@ -1,4 +1,6 @@
-# AutoFind (https://bit.ly/2Pc1oQE)	 
+# AutoFind 
+
+Search function: https://bit.ly/2Pc1oQE	 
 
 
 
