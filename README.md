@@ -1,6 +1,6 @@
 # AutoFind 
 
-Search function: https://bit.ly/2Pc1oQE	 
+### Check out the demo search: https://bit.ly/2Pc1oQE	 
 
 
 
